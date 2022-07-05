@@ -15,7 +15,7 @@ You can find release notes for all releases, including out-of-support releases, 
 [3.1.26]: 3.1/3.1.26/3.1.26.md
 
 
-## Release Information
+## Release Information -  Sample test Repository
 
 * [Download .NET](https://dotnet.microsoft.com/download/dotnet)
 * [Releases Index][releases-index.json] -- Index for all release channels in JSON format
@@ -24,3 +24,6 @@ You can find release notes for all releases, including out-of-support releases, 
 
 [releases-index.json]: https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/releases-index.json
 [policies]: ../release-policies.md
+
+
+
